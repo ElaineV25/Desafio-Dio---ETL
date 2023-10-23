@@ -1,1 +1,1 @@
-# Desafio-Dio - Explorando IA Generativa em um Pipeline de ETL com Python
+# Desafio Dio - Explorando IA Generativa em um Pipeline de ETL com Python
